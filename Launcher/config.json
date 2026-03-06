@@ -3,4 +3,9 @@
         "version": 1,
         "str_cache": "https://samp-mobile.shop/files.json"
     }
+
+    "game": {
+        "unk_": "test,
+        "message": "test"
+    }
 }
