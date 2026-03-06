@@ -1,8 +1,7 @@
 {
     "launcher": {
         "version": 1
-    }
-
+    },
     "game": {
         "unk_": "test",
         "message": "test"
