@@ -1,13 +1,13 @@
 {
     "files": {
-        "anim": "",
-        "audio": "",
-        "data": "",
-        "fonts": "",
-        "models": "",
-        "SAMP": "",
-        "texdb": "",
+        "anim": "https://github.com/kavnnn/SAMobile/releases/download/files/anim.zip",
+        "audio": "https://github.com/kavnnn/SAMobile/releases/download/files/audio.zip",
+        "data": "https://github.com/kavnnn/SAMobile/releases/download/files/data.zip",
+        "fonts": "https://github.com/kavnnn/SAMobile/releases/download/files/fonts.zip",
+        "models": "https://github.com/kavnnn/SAMobile/releases/download/files/models.zip",
+        "SAMP": "https://github.com/kavnnn/SAMobile/releases/download/files/SAMP.zip",
+        "texdb": "https://github.com/kavnnn/SAMobile/releases/download/files/texdb.zip",
 
-         "sets": ""
+         "sets": "https://github.com/kavnnn/SAMobile/releases/download/files/sets.zip"
     }
 }
