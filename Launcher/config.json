@@ -1,7 +1,8 @@
 {
     "launcher": {
+        "string_name": "SA Mobile",
+        "string_version": "SA v2.10 - v1.2",
         "version": 9
-        "string_version": "SA v2.10 - v1.2"
     },
     "game": {
         "unk_": "test",
