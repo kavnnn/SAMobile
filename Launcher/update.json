@@ -1,0 +1,14 @@
+[
+  {
+    "tag": "{FF0000}CRITICAL",
+    "message": "Fixed server connection timeout issues."
+  },
+  {
+    "tag": "{00FF00}UPDATE",
+    "message": "Added new texture packs for low-end devices."
+  },
+  {
+    "tag": "{888888}INFO",
+    "message": "Server maintenance scheduled for tomorrow."
+  }
+]
