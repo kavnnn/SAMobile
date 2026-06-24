@@ -1,14 +1,4 @@
 {
     "lite": {
-        "anim": "https://static.valrisegaming.com/SAMP-RP/kavn/anim.zip",
-        "audio": "https://static.valrisegaming.com/SAMP-RP/kavn/audio.zip",
-        "data": "https://static.valrisegaming.com/SAMP-RP/kavn/data.zip",
-        "fonts": "https://static.valrisegaming.com/SAMP-RP/kavn/fonts.zip",
-        "models": "https://static.valrisegaming.com/SAMP-RP/kavn/models.zip",
-        "SAMP": "https://static.valrisegaming.com/SAMP-RP/kavn/SAMP.zip",
-        "texdb": "https://static.valrisegaming.com/SAMP-RP/kavn/texdb.zip",
-        "ext": "https://static.valrisegaming.com/SAMP-RP/kavn/nodes.zip",
-
-         "sets": "https://static.valrisegaming.com/SAMP-RP/kavn/sets.zip"
     }
 }
